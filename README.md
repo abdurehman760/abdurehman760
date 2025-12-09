@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a backend developer specializing in NestJS, Supabase, and OpenAI APIs. I love building scalable APIs and AI-powered assistants while constantly exploring new technologies to improve developer workflows.<br><br>
+Backend & AI Engineer specializing in LLM/RAG-powered automation, agent orchestration, and microservices. I build production-grade backends with NestJS & FastAPI using Supabase/PostgreSQL, SQLite, and MongoDB, and integrate tools like n8n and Flowise for reliable end-to-end workflows. I also handle Microsoft Azure infrastructure, deployments, and scaling so your product is secure, fast, and easy to maintain.<br><br>
 
 
 ## 🌐 Socials:
